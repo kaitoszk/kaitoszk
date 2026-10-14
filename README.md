@@ -1,4 +1,4 @@
-## Hi, I'm Kaito 👋
+## Hi, I'm Kaito Suzuki 👋
 
 I'm a backend engineer working with PHP / Laravel, currently learning Go.
 
